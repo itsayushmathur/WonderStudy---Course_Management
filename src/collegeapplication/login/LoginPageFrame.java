@@ -103,14 +103,14 @@ public class LoginPageFrame extends JFrame implements ActionListener
 		contentPane.add(panel);
 		panel.setLayout(null);
 		
-		JLabel WonderStudy = new JLabel(ad.getCollageName());
+		JLabel WonderStudy = new JLabel("WonderStudy-Course Management");
 		WonderStudy.setForeground(Color.WHITE);
-		WonderStudy.setFont(new Font("Segoe UI", Font.BOLD, 30));
-		WonderStudy.setHorizontalAlignment(SwingConstants.LEFT);
-		WonderStudy.setBounds(160, 43, 749, 57);
+		WonderStudy.setFont(new Font("Segoe UI", Font.BOLD, 38));
+		WonderStudy.setHorizontalAlignment(SwingConstants.CENTER);
+		WonderStudy.setBounds(0, 21, 1364, 117);
 		panel.add(WonderStudy);
 		
-		JLabel LogoImage = new JLabel("logo");
+		JLabel LogoImage = new JLabel("");
 		LogoImage.setBounds(10, 10, 140, 140);
 		
 		
