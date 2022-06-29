@@ -5,9 +5,9 @@ My name is [Ayush Mathur](https://github.com/itsayushmathur). I'm doing my Maste
 Email : mathurayush121@gmail.com
 
 # Social Accounts
-[![Instagram]](https://www.instagram.com/itsayushmathur/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[![Twitter]](https://twitter.com/itsayushmathur)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[![Linkedin]](https://www.linkedin.com/in/itsayushmathur/)
+[[Instagram]](https://www.instagram.com/itsayushmathur/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[[Twitter]](https://twitter.com/itsayushmathur)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[[Linkedin]](https://www.linkedin.com/in/itsayushmathur/)
 
 
 -Here I have designed and developed a Course management system. The Technology I have used is "Java Swing-awt", and the database i have used is MySql.
@@ -54,9 +54,10 @@ Thanks !
     * password="workbench";
 
 # How to Run 
- * Start Database Server
- * Start Chat Server
- * Open "src/collegeapplication/login/LoginPageFrame.java" Run this file
+ * You will first need to make sure that your databse server is up and running.
+ * Next you can just go ahead and run "src/collegeapplication/login/LoginPageFrame.java".
+ * If you want to use the chat feature, that chat server will be required.
+ * To run chat server "scr/collegeapplication/chat/Server.java".
 
 # Credentials
  * Admin Userid    : admin
