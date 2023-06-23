@@ -1,7 +1,7 @@
 # WonderStudy Course Management In Java
 
 # Hello Friends!
-My name is [Ayush Mathur](https://github.com/itsayushmathur). I'm doing my Masters in Computer Applications(1st Year) in Chandigarh University. <br/>
+My name is [Ayush Mathur](https://github.com/itsayushmathur).<br/>
 Email : mathurayush121@gmail.com
 
 # Social Accounts
